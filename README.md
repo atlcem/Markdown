@@ -3,11 +3,11 @@
 
 
  
->[!NOTA]
+>[!NOTE]
 >
 >Esto es una nota.
 
->[!IMPORTANTE]
+>[!IMPORTANT]
 >
 >Esto es una nota importante.
 
