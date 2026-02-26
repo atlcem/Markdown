@@ -5,5 +5,5 @@
  
 >[!NOTE]
 >
->This is note text.
+>Esto es una nota.
 
